@@ -1,6 +1,7 @@
 <h2> Demo project with Spring and Docker usage</h2>
 
 <h3>Technologies:</h3>
+
 - Junit5
 - Spring Boot
 - Allure
